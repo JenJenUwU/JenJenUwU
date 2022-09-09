@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/JenJenUwU?theme=nord&font=Quando&ext=activity)
 <!--
 **JenJenUwU/JenJenUwU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
