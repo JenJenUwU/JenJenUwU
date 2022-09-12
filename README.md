@@ -8,7 +8,7 @@
 Studying in Grade 11, working towards software engineering in uni
 
 ---
-Currently learning: **Python**, TypeScript&JavaScript
+>Currently learning: **Python**, TypeScript&JavaScript
 ---
 
 <!-- Some Cards -->
