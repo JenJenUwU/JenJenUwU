@@ -5,7 +5,7 @@
 
 
 ## About Me
-Studying in Grade 11, working towards software engineering in uni
+Studying in Grade 11, working towards software engineering in uni (╯✧∇✧)╯
 
 ---
 >Currently learning: **Python**, TypeScript&JavaScript
