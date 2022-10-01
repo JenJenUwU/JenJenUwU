@@ -1,7 +1,9 @@
+<img src="https://i.pximg.net/img-master/img/2021/04/10/20/11/45/89062690_p0_master1200.jpg" width="100%"><br>
+
 ## Info
-- Name: Jay Lin
-- Email: jenjenuwu358@gmail.com
-- Discord: JenJenUwU#7178
+* Name: Jay
+* Email: jenjenuwu358@gmail.com
+* Discord: JenJenUwU#7178
 
 
 ## About Me
@@ -11,6 +13,9 @@ Studying in Grade 11, working towards software engineering in uni (╯✧∇✧)
 >Currently learning: **Python**, TypeScript&JavaScript
 ---
 
+## Recent Goals
+* Create some long term project
+* Learn more about Python & Typescript
 <!-- Some Cards -->
 <p align="center">
   <a href="https://github.com/JenJenUwU?tab=repositories">
