@@ -4,6 +4,7 @@
 
 
 ## About Me
+Taiwanese high school student in Toronto
 Studying in Grade 11, working towards software engineering in uni (╯✧∇✧)╯
 * Email: jenjenuwu358@gmail.com
 * Discord: JenJenUwU#7178
@@ -12,7 +13,7 @@ Studying in Grade 11, working towards software engineering in uni (╯✧∇✧)
 ---
 
 ## Recent Goals
-* Create some long term project
+* Create projects such as websites, discord bots and other long term projects
 * Learn more about Python & Typescript
 <!-- Some Cards -->
 <p align="center">
