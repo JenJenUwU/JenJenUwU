@@ -29,7 +29,7 @@ Studying in Grade 11, working towards software engineering in uni (╯✧∇✧)
   </a>
   
   <a href="https://github.com/JenJenUwU?tab=repositories">
-    <img title="JenJenUwU's Most Used Languages" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenJenUwU&layout=compact&theme=vision-friendly-dark" />
+    <img title="JenJenUwU's Most Used Languages" alt="Most used languages" width='150%'src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenJenUwU&layout=compact&theme=vision-friendly-dark" />
   </a>
   <br />
   <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
