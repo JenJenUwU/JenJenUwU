@@ -35,7 +35,7 @@ Studying in Grade 11, working towards software engineering in uni (╯✧∇✧)
   <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
     <img title="JenJenUwU's LeetCode Stats" alt="JenJenUwU's LeetCode Stats" src="https://leetcard.jacoblin.cool/JenJenUwU?theme=nord&font=Quando&ext=activity" />
   </a>
-</p>
+</<p align="center">>
 
 <!--
 **JenJenUwU/JenJenUwU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
