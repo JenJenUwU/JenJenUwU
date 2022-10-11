@@ -27,6 +27,10 @@ Studying in Grade 11, working towards software engineering in uni (╯✧∇✧)
   <a href="https://github.com/JenJenUwU#user-activity-overview">
     <img title="JenJenUwU's Github Streak" alt="JenJenUwU's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JenJenUwU" />
   </a>
+  
+  <a href="https://github.com/JenJenUwU?tab=repositories">
+    <img title="JenJenUwU's Most Used Languages" alt="Most used languages" src="https://github-readme-stats.vercel.app/api?username=JenJenUwU&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" />
+  </a>
   <br />
   <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
     <img title="JenJenUwU's LeetCode Stats" alt="JenJenUwU's LeetCode Stats" src="https://leetcard.jacoblin.cool/JenJenUwU?theme=nord&font=Quando&ext=activity" />
