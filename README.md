@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/0R1wPQl.jpg" width="100%"><br>
+<img src="https://i.imgur.com/0R1wPQl.jpg" width="50%"><br>
 <h1 align="center">Hey! I'm JenJenUwU (๑´ㅂ`๑)</h1>
 
 
