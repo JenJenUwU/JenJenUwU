@@ -8,7 +8,7 @@
 * Taiwanese high school student in Toronto
 * Studying in Grade 11, working towards software engineering in uni (╯✧∇✧)╯
 * Email: jenjenuwu358@gmail.com
-* Discord: JenJenUwU#7178
+* Discord: ジェンジェン(ゝ∀･)#7178
 ---
 >Currently learning: **Python**, TypeScript&JavaScript, html&css
 ---
