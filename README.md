@@ -13,7 +13,7 @@
 >Currently learning: **Python**, C, TypeScript&JavaScript, html&css
 ---
 ## Experiences
-* Summer intern at [Skywatch](https://www.skywatch24.com), created an on-screen display (OSD) with [LVGL](https://docs.lvgl.io/master/)
+* Summer intern at [Skywatch](https://www.skywatch24.com), created an on-screen display (OSD) with [LVGL](https://docs.lvgl.io/master/). [Latest Project Clone](https://github.com/JenJenUwU/lvgl_osd)
 ## Recent Goals
 * Create projects such as websites, discord bots and other long-term projects
 * Learn more about Python & Typescript
