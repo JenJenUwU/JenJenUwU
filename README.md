@@ -6,15 +6,16 @@
 
 ## About Me
 * Taiwanese high school student in Toronto
-* Studying in Grade 11, working towards software engineering in uni (╯✧∇✧)╯
+* Studying in Grade 12, working towards software engineering in uni (╯✧∇✧)╯
 * Email: jenjenuwu358@gmail.com
-* Discord: ジェンジェン(ゝ∀･)#7178
+* Discord: jenjenuwu
 ---
->Currently learning: **Python**, TypeScript&JavaScript, html&css
+>Currently learning: **Python**, C, TypeScript&JavaScript, html&css
 ---
-
+## Experiences
+* Summer intern at [Skywatch](https://www.skywatch24.com), created an on-screen display (OSD) with [LVGL](https://docs.lvgl.io/master/)
 ## Recent Goals
-* Create projects such as websites, discord bots and other long term projects
+* Create projects such as websites, discord bots and other long-term projects
 * Learn more about Python & Typescript
 
 ## Statistics
