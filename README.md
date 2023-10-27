@@ -14,13 +14,14 @@
 ---
 ## Experiences
 * Summer intern at [Skywatch](https://www.skywatch24.com), created an on-screen display (OSD) with [LVGL](https://docs.lvgl.io/master/). [Latest Project Clone](https://github.com/JenJenUwU/lvgl_osd)
+* Speech recognizer for National Yang Ming Chiao Tung University, [Latest Project Clone](https://github.com/JenJenUwU/speech-timeline-recognizer)
+* Research on Batch normalization through PyTorch
 ## Recent Goals
 * Create projects such as websites, discord bots and other long-term projects
 * Apply into UofT computer science
 * Get familiar with Arduino
 
 ## Statistics
-<!-- Some Cards -->
 <p align="center">
   <a href="https://github.com/JenJenUwU?tab=repositories">
     <img title="JenJenUwU's Github Stats" alt="JenJenUwU's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JenJenUwU&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" />
@@ -38,18 +39,3 @@
     <img title="JenJenUwU's LeetCode Stats" alt="JenJenUwU's LeetCode Stats" src="https://leetcard.jacoblin.cool/JenJenUwU?theme=nord&font=Quando&ext=activity" />
   </a>
 </p>
-
-<!--
-**JenJenUwU/JenJenUwU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Leetcode Stats](https://leetcard.jacoblin.cool/JenJenUwU?theme=nord&font=Quando&ext=activity)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
