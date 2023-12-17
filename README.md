@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/rF6smeX.jpg" width="100%"><br>
 <p align="center">
-<h1 align="center">Hi, I'm Jay! (๑´ㅂ`๑)</h1>
+<h1 align="center">Hi, I'm Jay! (๑•̀ㅂ•́)و✧</h1>
 
 
 
