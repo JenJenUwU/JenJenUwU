@@ -9,7 +9,7 @@
 * Studying in Grade 12, working towards computer engineering/computer science in uni (╯✧∇✧)╯
 * Email: jenjenuwu358@gmail.com
 * Discord: jenjenuwu
-* My Portfolio Website: [**HERE**](https://jenjenuwu.github.io/Developer-Portfolio)
+* My Portfolio Website: [**HERE**](https://jenjenuwu.github.io/)
 ---
 >Currently learning: **Python**, C/C++, Javascript/Typescript, react.js
 ---
