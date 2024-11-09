@@ -5,8 +5,7 @@
 
 
 ## About Me
-* Taiwanese high school student in Toronto
-* Studying in Grade 12, working towards computer engineering/computer science in uni (╯✧∇✧)╯
+* Uoft 2t8 Engineering Student(╯✧∇✧)╯
 * Email: jenjenuwu358@gmail.com
 * Discord: jenjenuwu
 * My Portfolio Website: [**HERE**](https://jenjenuwu.github.io/)
